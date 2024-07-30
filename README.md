@@ -1,0 +1,1 @@
+penyelesaian sederhana menggunakan fungsi rekursif
