@@ -9,7 +9,7 @@ int faktorial(int n) {
     }
 }
 int main() {
-    cout << faktorial(4) << endl;
+    cout << faktorial(5) << endl;
     /*
     faktorial (5) = faktorial(4)*5
                   = (faktorial (3)*4)*5
